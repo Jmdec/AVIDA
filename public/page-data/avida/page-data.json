@@ -1,0 +1,130 @@
+{
+    "componentChunkName": "component---src-templates-property-concept-property-concept-tsx",
+    "path": "/properties/avida-towers-davao/",
+    "result": {
+        "data": {
+            "propertyData": {
+                "propertyName": "Avida Towers Davao",
+                "propertyType": "Condominium",
+                "propertyStatus": "RFO (Ready for Occupancy)",
+                "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706315973482-335064-qxpyspvi7ni.webp",
+                "optimizedFeaturedImg": {
+                    "childImageSharp": {
+                        "gatsbyImageData": {
+                            "layout": "constrained",
+                            "backgroundColor": "#f8f8f8",
+                            "images": {
+                                "fallback": {
+                                    "src": "/static/d9549df6b80ad59331cc029816535358/d6406/1706315973482-335064-qxpyspvi7ni.webp",
+                                    "srcSet": "/static/d9549df6b80ad59331cc029816535358/34b70/1706315973482-335064-qxpyspvi7ni.webp 638w,\n/static/d9549df6b80ad59331cc029816535358/fe850/1706315973482-335064-qxpyspvi7ni.webp 1275w,\n/static/d9549df6b80ad59331cc029816535358/d6406/1706315973482-335064-qxpyspvi7ni.webp 2550w",
+                                    "sizes": "(min-width: 2550px) 2550px, 100vw"
+                                },
+                                "sources": []
+                            },
+                            "width": 2550,
+                            "height": 3103
+                        }
+                    }
+                },
+                "slug": "avida-towers-davao",
+                "priceRange": "3.8m - 12m",
+                "floorAreaSize": "58",
+                "unitLinkBtn": "",
+                "seoOverviewTitle": "",
+                "seoOverviewDescription": "",
+                "overviewHeadingTag": "",
+                "propertyLocation": "Mindanao",
+                "masterPlan": "",
+                "propertyConcept": {
+                    "title": "Life in full color",
+                    "description": "Live in the heart of Davao so you can have access to everything the city has to offer. It is known as a 1st class highly urbanized city in the island of Mindanao. Here, life converges with accessibility and convenience to give you all the opportunities for ensuring a future that is not only bright and colorful but also secure.\n\nAvencosouth Corp., a joint venture between Avida Land Corp. and Accendo Commercial Corp., presents you with a home created in a modern contemporary design. \n\nOWNER/DEVELOPER:\nAvencosouth Corp.\n\nCOMPLETION DATE:\nTower 1: December 2016 | Tower 2: September 2017\n\nHLURB LTS No. 26611 ( T1) 26609 (T2)\nHLURB Ad Approval No. SMR-AA-15-057"
+                },
+                "gallery": [
+                    {
+                        "id": "26e084c9-a322-4553-9790-98aad266bccb",
+                        "featured": true,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706315973482-335064-qxpyspvi7ni.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/d9549df6b80ad59331cc029816535358/d6406/1706315973482-335064-qxpyspvi7ni.webp",
+                                            "srcSet": "/static/d9549df6b80ad59331cc029816535358/34b70/1706315973482-335064-qxpyspvi7ni.webp 638w,\n/static/d9549df6b80ad59331cc029816535358/fe850/1706315973482-335064-qxpyspvi7ni.webp 1275w,\n/static/d9549df6b80ad59331cc029816535358/d6406/1706315973482-335064-qxpyspvi7ni.webp 2550w",
+                                            "sizes": "(min-width: 2550px) 2550px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 2550,
+                                    "height": 3103
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8038338a-7353-4b4d-8570-e78fd8195c6f",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706315978220-112270-pzyml7jiv0e.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#d8d8c8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/0e888b0a4fe45de8955015905a17cf0d/b924f/1706315978220-112270-pzyml7jiv0e.webp",
+                                            "srcSet": "/static/0e888b0a4fe45de8955015905a17cf0d/f5c71/1706315978220-112270-pzyml7jiv0e.webp 400w,\n/static/0e888b0a4fe45de8955015905a17cf0d/0d27e/1706315978220-112270-pzyml7jiv0e.webp 800w,\n/static/0e888b0a4fe45de8955015905a17cf0d/b924f/1706315978220-112270-pzyml7jiv0e.webp 1600w",
+                                            "sizes": "(min-width: 1600px) 1600px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1600,
+                                    "height": 1200
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "44be70cf-e01c-4484-a608-3c48b1dc5bd5",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706315984261-161892-cfv7h1jp37p.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#787868",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/ce7d529ffdb4b561725d5fb4d35cea05/b924f/1706315984261-161892-cfv7h1jp37p.webp",
+                                            "srcSet": "/static/ce7d529ffdb4b561725d5fb4d35cea05/f5c71/1706315984261-161892-cfv7h1jp37p.webp 400w,\n/static/ce7d529ffdb4b561725d5fb4d35cea05/0d27e/1706315984261-161892-cfv7h1jp37p.webp 800w,\n/static/ce7d529ffdb4b561725d5fb4d35cea05/b924f/1706315984261-161892-cfv7h1jp37p.webp 1600w",
+                                            "sizes": "(min-width: 1600px) 1600px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1600,
+                                    "height": 1200
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "pageContext": { "id": "1301b7c4-7d65-5141-bc6d-9c609e2a9ba0" }
+    },
+    "staticQueryHashes": [
+        "3109028461",
+        "3827149321",
+        "65569352",
+        "679905114",
+        "895940688"
+    ]
+}

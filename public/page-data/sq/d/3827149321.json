@@ -1,0 +1,13 @@
+{
+    "data": {
+        "japaneseSite": null,
+        "reserveNow": {
+            "url": "https://reservenow.ayalaland.com/Odyssey/avida"
+        },
+        "bookAnOfficeAppointment": {
+            "url": "http://qmsonline.avidaland.com/set.php"
+        },
+        "leasing": null,
+        "otherBrandLinks": { "nodes": [] }
+    }
+}

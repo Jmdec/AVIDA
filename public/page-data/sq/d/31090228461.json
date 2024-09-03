@@ -1,0 +1,16 @@
+{
+    "data": {
+        "newsletter": { "title": "Be the first to know", "featuredImage": "" },
+        "facebook": { "url": "https://www.facebook.com/AvidaLandPH/" },
+        "instagram": { "url": "https://www.instagram.com/avidalandph" },
+        "youtube": { "url": "https://www.youtube.com/user/avidaofficial" },
+        "allShowroom": {
+            "nodes": [
+                { "showRoomTitle": "South Luzon" },
+                { "showRoomTitle": "Visayas" },
+                { "showRoomTitle": "Metro Manila" },
+                { "showRoomTitle": "Davao" }
+            ]
+        }
+    }
+}

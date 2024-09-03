@@ -1,0 +1,146 @@
+{
+    "componentChunkName": "component---src-templates-property-concept-property-concept-tsx",
+    "path": "/properties/one-antonio/",
+    "result": {
+        "data": {
+            "propertyData": {
+                "propertyName": "One Antonio",
+                "propertyType": "Condominium",
+                "propertyStatus": "Pre-Selling",
+                "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706147838521-457208-1b0jwoav1h4.webp",
+                "optimizedFeaturedImg": {
+                    "childImageSharp": {
+                        "gatsbyImageData": {
+                            "layout": "constrained",
+                            "backgroundColor": "#f8f8f8",
+                            "images": {
+                                "fallback": {
+                                    "src": "/static/151aa7059f654a47e5487ea152366cc0/688d2/1706147838521-457208-1b0jwoav1h4.webp",
+                                    "srcSet": "/static/151aa7059f654a47e5487ea152366cc0/c48a7/1706147838521-457208-1b0jwoav1h4.webp 979w,\n/static/151aa7059f654a47e5487ea152366cc0/d8ff8/1706147838521-457208-1b0jwoav1h4.webp 1959w,\n/static/151aa7059f654a47e5487ea152366cc0/688d2/1706147838521-457208-1b0jwoav1h4.webp 3917w",
+                                    "sizes": "(min-width: 3917px) 3917px, 100vw"
+                                },
+                                "sources": []
+                            },
+                            "width": 3917,
+                            "height": 2206
+                        }
+                    }
+                },
+                "slug": "one-antonio",
+                "priceRange": "16m - 21.88m",
+                "floorAreaSize": "",
+                "unitLinkBtn": null,
+                "seoOverviewTitle": "RFO Condo in Makati City | One Antonio",
+                "seoOverviewDescription": "One Antonio is an RFO condo in Makati featuring a distinct 6-storey low-rise and low-density design where village-like living creates meaningful connections.",
+                "overviewHeadingTag": "RFO Condo in Makati City ",
+                "propertyLocation": "Sacred Heart cor. Dao Street, San Antonio, Makati City",
+                "masterPlan": "",
+                "propertyConcept": {
+                    "title": "Experience a one-of-a-kind lifestyle in the heart of the city",
+                    "description": "\"Experience a one-of-a-kind lifestyle in the heart of the city\n\nCondo-village in the city.\n\nOne Antonio is Avida’s first residential condominium development that features a distinct 6-storey low-rise, low-density design. Here, residents can revel in a secured and exclusive village-like living right in the heart of the city with 60% of its land area dedicated to shared open spaces and refreshing greenery. With an atypical T-shaped layout that allows for spacious single-loaded corridors and atriums throughout the development, there’s more than enough room to create meaningful connections within.\"\n\nHLURB LTS No. 034826\nHLURB AA-STR-092619-0275\n"
+                },
+                "gallery": [
+                    {
+                        "id": "027c4245-ce3e-467e-9448-603d1951ee5b",
+                        "featured": true,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706147838521-457208-1b0jwoav1h4.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/151aa7059f654a47e5487ea152366cc0/688d2/1706147838521-457208-1b0jwoav1h4.webp",
+                                            "srcSet": "/static/151aa7059f654a47e5487ea152366cc0/c48a7/1706147838521-457208-1b0jwoav1h4.webp 979w,\n/static/151aa7059f654a47e5487ea152366cc0/d8ff8/1706147838521-457208-1b0jwoav1h4.webp 1959w,\n/static/151aa7059f654a47e5487ea152366cc0/688d2/1706147838521-457208-1b0jwoav1h4.webp 3917w",
+                                            "sizes": "(min-width: 3917px) 3917px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 3917,
+                                    "height": 2206
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "18bf5bf5-4918-4b86-ab43-d37fcc03ca97",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706147841378-320054-92s1vrivua5.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#a8c8d8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/bf6b2004729a9eb9ade3f42f9f37f1e2/e4c47/1706147841378-320054-92s1vrivua5.webp",
+                                            "srcSet": "/static/bf6b2004729a9eb9ade3f42f9f37f1e2/a1501/1706147841378-320054-92s1vrivua5.webp 480w,\n/static/bf6b2004729a9eb9ade3f42f9f37f1e2/55375/1706147841378-320054-92s1vrivua5.webp 960w,\n/static/bf6b2004729a9eb9ade3f42f9f37f1e2/e4c47/1706147841378-320054-92s1vrivua5.webp 1920w",
+                                            "sizes": "(min-width: 1920px) 1920px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1920,
+                                    "height": 1440
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e29ef80c-eb26-4d5f-b774-15aff3e0c778",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706147846971-355904-c7qdn60xskb.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#788878",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/7d0a6322a2f571e0fce8f888de7c6866/2a833/1706147846971-355904-c7qdn60xskb.webp",
+                                            "srcSet": "/static/7d0a6322a2f571e0fce8f888de7c6866/a1501/1706147846971-355904-c7qdn60xskb.webp 480w,\n/static/7d0a6322a2f571e0fce8f888de7c6866/52489/1706147846971-355904-c7qdn60xskb.webp 961w,\n/static/7d0a6322a2f571e0fce8f888de7c6866/2a833/1706147846971-355904-c7qdn60xskb.webp 1921w",
+                                            "sizes": "(min-width: 1921px) 1921px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1921,
+                                    "height": 1442
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "c49475cb-d326-4e37-8a3d-49e619b704b8",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://youtu.be/gKpicc3hZy8",
+                        "type": "panorama",
+                        "optimizedGalleryImg": null
+                    },
+                    {
+                        "id": "a4eb861f-fb6e-470b-b147-346577e76158",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://youtu.be/gKpicc3hZy8",
+                        "type": "video",
+                        "optimizedGalleryImg": null
+                    }
+                ]
+            }
+        },
+        "pageContext": { "id": "272ddbcd-0b70-56cc-a548-6172b9878541" }
+    },
+    "staticQueryHashes": [
+        "3109028461",
+        "3827149321",
+        "65569352",
+        "679905114",
+        "895940688"
+    ]
+}

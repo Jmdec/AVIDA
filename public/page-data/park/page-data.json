@@ -1,0 +1,155 @@
+{
+    "componentChunkName": "component---src-templates-property-concept-property-concept-tsx",
+    "path": "/properties/parklane-settings-vermosa/",
+    "result": {
+        "data": {
+            "propertyData": {
+                "propertyName": "Parklane Settings Vermosa",
+                "propertyType": "House and Lot",
+                "propertyStatus": "Pre-Selling",
+                "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706172412288-2469452-tp7ryq8h7hp.webp",
+                "optimizedFeaturedImg": {
+                    "childImageSharp": {
+                        "gatsbyImageData": {
+                            "layout": "constrained",
+                            "backgroundColor": "#58a8d8",
+                            "images": {
+                                "fallback": {
+                                    "src": "/static/c4de405c9d7582f85de9267ff3448778/9b4f6/1706172412288-2469452-tp7ryq8h7hp.webp",
+                                    "srcSet": "/static/c4de405c9d7582f85de9267ff3448778/36303/1706172412288-2469452-tp7ryq8h7hp.webp 1333w,\n/static/c4de405c9d7582f85de9267ff3448778/11f1b/1706172412288-2469452-tp7ryq8h7hp.webp 2667w,\n/static/c4de405c9d7582f85de9267ff3448778/9b4f6/1706172412288-2469452-tp7ryq8h7hp.webp 5333w",
+                                    "sizes": "(min-width: 5333px) 5333px, 100vw"
+                                },
+                                "sources": []
+                            },
+                            "width": 5333,
+                            "height": 3000
+                        }
+                    }
+                },
+                "slug": "parklane-settings-vermosa",
+                "priceRange": "5.5m - 20.4m",
+                "floorAreaSize": "85",
+                "unitLinkBtn": "https://reservenow.ayalaland.com/Odyssey/ProjectDetail?a=V7hjW8lBxsJq4gxQ+cIK%2FoRe6EzVZMa15vTxMHraqib8nUhLuFuD6NtPP7a9WeS4XYyTfPF8dp+aak5+4QJ3zg%3D%3D&b=nU6nlfumw91oJxrJjtaJOXYabJAlkYuhvlPhwEGv2tEhzZMnqC18LTocoh9TA%2FrZoCNYquzzFbp3IxJwz2yywQ%3D%3D",
+                "seoOverviewTitle": "",
+                "seoOverviewDescription": "",
+                "overviewHeadingTag": "",
+                "propertyLocation": "South Luzon",
+                "masterPlan": "",
+                "propertyConcept": {
+                    "title": "Inspired life spaces for you to grow",
+                    "description": "Parklane settings Vermosa is the 2nd residential development of Avida in Ayala's estate in Cavite — Vermosa. A 12-hectare development strategically located in the residential district of Vermosa. Avida introduces a healthy and active lifestyle amidst the modern suburban community of Verrmosa.\n\nDHSUD LS No. 588 and 907"
+                },
+                "gallery": [
+                    {
+                        "id": "f07e6567-a1b8-4243-b005-9e1af90c9667",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706172406901-3025864-dbv66lrh9qm.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#98c8e8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/3b7e3362ad973a79538c9f971776effd/9b4f6/1706172406901-3025864-dbv66lrh9qm.webp",
+                                            "srcSet": "/static/3b7e3362ad973a79538c9f971776effd/36303/1706172406901-3025864-dbv66lrh9qm.webp 1333w,\n/static/3b7e3362ad973a79538c9f971776effd/11f1b/1706172406901-3025864-dbv66lrh9qm.webp 2667w,\n/static/3b7e3362ad973a79538c9f971776effd/9b4f6/1706172406901-3025864-dbv66lrh9qm.webp 5333w",
+                                            "sizes": "(min-width: 5333px) 5333px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 5333,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "eb03c732-ee53-4c89-9817-21e50e7c20fa",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706172408457-2215566-2c3y9cymxgs.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#484858",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/0dfb0fac8d8ed9bc40238768310e3ba4/9b4f6/1706172408457-2215566-2c3y9cymxgs.webp",
+                                            "srcSet": "/static/0dfb0fac8d8ed9bc40238768310e3ba4/36303/1706172408457-2215566-2c3y9cymxgs.webp 1333w,\n/static/0dfb0fac8d8ed9bc40238768310e3ba4/11f1b/1706172408457-2215566-2c3y9cymxgs.webp 2667w,\n/static/0dfb0fac8d8ed9bc40238768310e3ba4/9b4f6/1706172408457-2215566-2c3y9cymxgs.webp 5333w",
+                                            "sizes": "(min-width: 5333px) 5333px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 5333,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ed551335-ed57-4c67-bf68-973734de3222",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706172409686-1808074-a5791aie3bo.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#989898",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/ad63526f64f2003bcfe05d60d0e74b6c/9b4f6/1706172409686-1808074-a5791aie3bo.webp",
+                                            "srcSet": "/static/ad63526f64f2003bcfe05d60d0e74b6c/36303/1706172409686-1808074-a5791aie3bo.webp 1333w,\n/static/ad63526f64f2003bcfe05d60d0e74b6c/11f1b/1706172409686-1808074-a5791aie3bo.webp 2667w,\n/static/ad63526f64f2003bcfe05d60d0e74b6c/9b4f6/1706172409686-1808074-a5791aie3bo.webp 5333w",
+                                            "sizes": "(min-width: 5333px) 5333px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 5333,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "46d1d00f-482b-4dea-b787-df8d44d69bcc",
+                        "featured": true,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706172412288-2469452-tp7ryq8h7hp.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#58a8d8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/c4de405c9d7582f85de9267ff3448778/9b4f6/1706172412288-2469452-tp7ryq8h7hp.webp",
+                                            "srcSet": "/static/c4de405c9d7582f85de9267ff3448778/36303/1706172412288-2469452-tp7ryq8h7hp.webp 1333w,\n/static/c4de405c9d7582f85de9267ff3448778/11f1b/1706172412288-2469452-tp7ryq8h7hp.webp 2667w,\n/static/c4de405c9d7582f85de9267ff3448778/9b4f6/1706172412288-2469452-tp7ryq8h7hp.webp 5333w",
+                                            "sizes": "(min-width: 5333px) 5333px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 5333,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "pageContext": { "id": "f725b9e5-5965-5665-b835-92691c26806a" }
+    },
+    "staticQueryHashes": [
+        "3109028461",
+        "3827149321",
+        "65569352",
+        "679905114",
+        "895940688"
+    ]
+}

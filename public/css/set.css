@@ -1,0 +1,11 @@
+* { font-family: 'Poppins', sans-serif; }
+
+.select2-selection { height:38px !important; line-height: 38px; border-radius: .25rem !important; outline: 0; }
+.select2-container--default .select2-selection--single .select2-selection__rendered { line-height: 38px !important; margin-left: 4px !important; }
+.select2-container--default .select2-selection--single { border:1px solid #ced4da; }
+
+.btn-primary, .btn-primary:hover, .btn-primary:active { background:#A32A2E; border:0; }
+
+label { margin-top:15px; margin-bottom: 5px; font-size:0.8rem; color:#888; display: block; }
+a, .text-primary { color:#A32A2E !important; }
+a:hover { color:#B33A3E; }

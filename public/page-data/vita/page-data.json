@@ -1,0 +1,105 @@
+{
+    "componentChunkName": "component---src-templates-property-concept-property-concept-tsx",
+    "path": "/properties/avida-towers-vita/",
+    "result": {
+        "data": {
+            "propertyData": {
+                "propertyName": "Avida Towers Vita",
+                "propertyType": "Condominium",
+                "propertyStatus": "RFO (Ready for Occupancy)",
+                "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1665454860834-482517-2mipyf1utwe.jpg",
+                "optimizedFeaturedImg": {
+                    "childImageSharp": {
+                        "gatsbyImageData": {
+                            "layout": "constrained",
+                            "backgroundColor": "#e8f8f8",
+                            "images": {
+                                "fallback": {
+                                    "src": "/static/034d97e1d90da3037d5bfa07fd5b7627/41d70/1665454860834-482517-2mipyf1utwe.webp",
+                                    "srcSet": "/static/034d97e1d90da3037d5bfa07fd5b7627/d19bf/1665454860834-482517-2mipyf1utwe.webp 252w,\n/static/034d97e1d90da3037d5bfa07fd5b7627/0cd1c/1665454860834-482517-2mipyf1utwe.webp 504w,\n/static/034d97e1d90da3037d5bfa07fd5b7627/41d70/1665454860834-482517-2mipyf1utwe.webp 1008w",
+                                    "sizes": "(min-width: 1008px) 1008px, 100vw"
+                                },
+                                "sources": []
+                            },
+                            "width": 1008,
+                            "height": 840
+                        }
+                    }
+                },
+                "slug": "avida-towers-vita",
+                "priceRange": "5.1m - 16.3m",
+                "floorAreaSize": "",
+                "unitLinkBtn": "https://reservenow.ayalaland.com/Odyssey/ProjectDetail?a=V7hjW8lBxsJq4gxQ+cIK%2FoRe6EzVZMa15vTxMHraqib8nUhLuFuD6NtPP7a9WeS4XYyTfPF8dp+aak5+4QJ3zg%3D%3D&b=oiL3BwmDWoDk2u84mT447vFD1RRih4SUzoXM40wyvfGFmFmyDFzTm4RpulRFL4Sgdrg%2FOcbgAZlZa3ZW5S4W6A%3D%3D",
+                "seoOverviewTitle": "RFO Condo in Quezon City | Avida Towers Vita",
+                "seoOverviewDescription": "Within Ayala Land's master planned Vertis North estate, Avida Towers Vita is an RFO Condo in Quezon City which is easily accessible to EDSA and Quezon Avenue. ",
+                "overviewHeadingTag": "Ready for Occupancy Condo in Quezon City",
+                "propertyLocation": "Along EDSA, Vertis North, Quezon City",
+                "masterPlan": "",
+                "propertyConcept": {
+                    "title": "It All Starts Here",
+                    "description": "Avida Towers Vita is a three-tower residential condominium development in Vertis North, Ayala Land's master planned estate in Quezon City. It is Avida's first project in the estate."
+                },
+                "gallery": [
+                    {
+                        "id": "f622223d-e92a-4a96-9c47-2c7f485d29de",
+                        "featured": true,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1665454860834-482517-2mipyf1utwe.jpg",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#e8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/034d97e1d90da3037d5bfa07fd5b7627/41d70/1665454860834-482517-2mipyf1utwe.webp",
+                                            "srcSet": "/static/034d97e1d90da3037d5bfa07fd5b7627/d19bf/1665454860834-482517-2mipyf1utwe.webp 252w,\n/static/034d97e1d90da3037d5bfa07fd5b7627/0cd1c/1665454860834-482517-2mipyf1utwe.webp 504w,\n/static/034d97e1d90da3037d5bfa07fd5b7627/41d70/1665454860834-482517-2mipyf1utwe.webp 1008w",
+                                            "sizes": "(min-width: 1008px) 1008px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1008,
+                                    "height": 840
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "aaf5d1ad-c181-47f1-8c6b-db371ffdb320",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1665454876767-474378-5qvp8075ok.jpg",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#283878",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/54b82908701be32bc573a9a33d5e49f9/30f11/1665454876767-474378-5qvp8075ok.webp",
+                                            "srcSet": "/static/54b82908701be32bc573a9a33d5e49f9/6412e/1665454876767-474378-5qvp8075ok.webp 210w,\n/static/54b82908701be32bc573a9a33d5e49f9/d36aa/1665454876767-474378-5qvp8075ok.webp 420w,\n/static/54b82908701be32bc573a9a33d5e49f9/30f11/1665454876767-474378-5qvp8075ok.webp 840w",
+                                            "sizes": "(min-width: 840px) 840px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 840,
+                                    "height": 1050
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "pageContext": { "id": "64afbacd-cbfe-5c85-9544-38ed80a10741" }
+    },
+    "staticQueryHashes": [
+        "3109028461",
+        "3827149321",
+        "65569352",
+        "679905114",
+        "895940688"
+    ]
+}

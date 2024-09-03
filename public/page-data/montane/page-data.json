@@ -1,0 +1,180 @@
+{
+    "componentChunkName": "component---src-templates-property-concept-property-concept-tsx",
+    "path": "/properties/the-montane/",
+    "result": {
+        "data": {
+            "propertyData": {
+                "propertyName": "The Montane",
+                "propertyType": "Condominium",
+                "propertyStatus": "RFO (Ready for Occupancy)",
+                "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1656298786563-434561-6di8dosumdh.jpg",
+                "optimizedFeaturedImg": {
+                    "childImageSharp": {
+                        "gatsbyImageData": {
+                            "layout": "constrained",
+                            "backgroundColor": "#f8f8f8",
+                            "images": {
+                                "fallback": {
+                                    "src": "/static/c49c80e15d3321630006242f8ebb8117/2490a/1656298786563-434561-6di8dosumdh.webp",
+                                    "srcSet": "/static/c49c80e15d3321630006242f8ebb8117/a05b5/1656298786563-434561-6di8dosumdh.webp 325w,\n/static/c49c80e15d3321630006242f8ebb8117/7b6b3/1656298786563-434561-6di8dosumdh.webp 650w,\n/static/c49c80e15d3321630006242f8ebb8117/2490a/1656298786563-434561-6di8dosumdh.webp 1300w",
+                                    "sizes": "(min-width: 1300px) 1300px, 100vw"
+                                },
+                                "sources": []
+                            },
+                            "width": 1300,
+                            "height": 500
+                        }
+                    }
+                },
+                "slug": "the-montane",
+                "priceRange": "10.3m - 36m",
+                "floorAreaSize": "",
+                "unitLinkBtn": null,
+                "seoOverviewTitle": "RFO Condo in BGC | The Montane",
+                "seoOverviewDescription": "The Montane is an RFO Condo in BGC and Avida's tallest tower to date. This high rise condo in Taguig City is only a short walk away from lifestyle essentials.",
+                "overviewHeadingTag": "",
+                "propertyLocation": "8th Avenue cor. 35th Street, North Bonifacio Triangle, Bonifacio Global City, Taguig",
+                "masterPlan": "",
+                "propertyConcept": {
+                    "title": "Where Life Radiates",
+                    "description": "The Montane at 8th Avenue is a high rise, top-of-the-line residential project located at the center of the active North side of Bonifacio Global City. At 39 physical levels, it is Avida’s tallest tower to date.\nThe Montane is strategically located on 8th Avenue which stretches to Kalayaan Ave. It is a short walk away from one of BGC’s main thoroughfares, 32nd Street. This street extends to C-5 on the East, and Makati to the Northwest.\n\nLiving at The Montane at 8th Avenue, residents can relish the best of BGC, being within walking distance of worldclass establishments and all that BGC has to offer.\n\nLTS No. 030697\nHLURB AA-2015/07-663"
+                },
+                "gallery": [
+                    {
+                        "id": "fd68c7c7-9415-4325-98c1-867e7daabbdb",
+                        "featured": false,
+                        "description": "Building Exterior",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1646107995169-2608285-2kfsryhsdzb.jpg",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#c8d8e8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/5da8053c3d068b9cc177add7ee9598d8/3a2a1/1646107995169-2608285-2kfsryhsdzb.webp",
+                                            "srcSet": "/static/5da8053c3d068b9cc177add7ee9598d8/07142/1646107995169-2608285-2kfsryhsdzb.webp 1500w,\n/static/5da8053c3d068b9cc177add7ee9598d8/19b60/1646107995169-2608285-2kfsryhsdzb.webp 3000w,\n/static/5da8053c3d068b9cc177add7ee9598d8/3a2a1/1646107995169-2608285-2kfsryhsdzb.webp 6000w",
+                                            "sizes": "(min-width: 6000px) 6000px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 6000,
+                                    "height": 6000
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "94e2ef44-acba-461d-b3ec-57f34004a8a7",
+                        "featured": false,
+                        "description": "Drop-off",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1646108008747-11293-1oipccz09ja.jpg",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#787858",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/4c2c0ecff423c4840e72ae6f2fecbe30/bb023/1646108008747-11293-1oipccz09ja.webp",
+                                            "srcSet": "/static/4c2c0ecff423c4840e72ae6f2fecbe30/e84c1/1646108008747-11293-1oipccz09ja.webp 70w,\n/static/4c2c0ecff423c4840e72ae6f2fecbe30/00003/1646108008747-11293-1oipccz09ja.webp 140w,\n/static/4c2c0ecff423c4840e72ae6f2fecbe30/bb023/1646108008747-11293-1oipccz09ja.webp 280w",
+                                            "sizes": "(min-width: 280px) 280px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 280,
+                                    "height": 123.99999999999999
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "ca6933a5-ed84-4b16-b83d-24bd6a580464",
+                        "featured": false,
+                        "description": "Retail",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1646108016619-13991-d53snekq294.jpg",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#988868",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/afb1e17746f106bf9f7902a31bfa101a/7249c/1646108016619-13991-d53snekq294.webp",
+                                            "srcSet": "/static/afb1e17746f106bf9f7902a31bfa101a/7fef7/1646108016619-13991-d53snekq294.webp 70w,\n/static/afb1e17746f106bf9f7902a31bfa101a/f96d9/1646108016619-13991-d53snekq294.webp 140w,\n/static/afb1e17746f106bf9f7902a31bfa101a/7249c/1646108016619-13991-d53snekq294.webp 280w",
+                                            "sizes": "(min-width: 280px) 280px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 280,
+                                    "height": 175
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "8e1502f6-4bf0-470f-890d-2737452b0912",
+                        "featured": false,
+                        "description": "Site Development Plan",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1646108033659-931360-kwzdmi4w1ni.jpg",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/0fec9b76b25541eacc510e86f9584547/2e377/1646108033659-931360-kwzdmi4w1ni.webp",
+                                            "srcSet": "/static/0fec9b76b25541eacc510e86f9584547/8e9fd/1646108033659-931360-kwzdmi4w1ni.webp 750w,\n/static/0fec9b76b25541eacc510e86f9584547/075d3/1646108033659-931360-kwzdmi4w1ni.webp 1500w,\n/static/0fec9b76b25541eacc510e86f9584547/2e377/1646108033659-931360-kwzdmi4w1ni.webp 3000w",
+                                            "sizes": "(min-width: 3000px) 3000px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 3000,
+                                    "height": 2400
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "e945b0aa-3af3-49f0-9ab2-574714eaaf6b",
+                        "featured": true,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1656298786563-434561-6di8dosumdh.jpg",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/c49c80e15d3321630006242f8ebb8117/2490a/1656298786563-434561-6di8dosumdh.webp",
+                                            "srcSet": "/static/c49c80e15d3321630006242f8ebb8117/a05b5/1656298786563-434561-6di8dosumdh.webp 325w,\n/static/c49c80e15d3321630006242f8ebb8117/7b6b3/1656298786563-434561-6di8dosumdh.webp 650w,\n/static/c49c80e15d3321630006242f8ebb8117/2490a/1656298786563-434561-6di8dosumdh.webp 1300w",
+                                            "sizes": "(min-width: 1300px) 1300px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1300,
+                                    "height": 500
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "pageContext": { "id": "b65d9a7b-08f6-5296-96e0-1f0506c2e30b" }
+    },
+    "staticQueryHashes": [
+        "3109028461",
+        "3827149321",
+        "65569352",
+        "679905114",
+        "895940688"
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "componentChunkName": "component---src-templates-property-concept-property-concept-tsx",
+    "path": "/properties/avida-towers-makati-southpoint/",
+    "result": {
+        "data": {
+            "propertyData": {
+                "propertyName": "Avida Towers Makati Southpoint",
+                "propertyType": "Condominium",
+                "propertyStatus": "Pre-Selling",
+                "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706148139409-625858-07dptfbn2bn9.webp",
+                "optimizedFeaturedImg": {
+                    "childImageSharp": {
+                        "gatsbyImageData": {
+                            "layout": "constrained",
+                            "backgroundColor": "#f8f8f8",
+                            "images": {
+                                "fallback": {
+                                    "src": "/static/a342f3736ef9eec256d6fac595130e72/4f506/1706148139409-625858-07dptfbn2bn9.webp",
+                                    "srcSet": "/static/a342f3736ef9eec256d6fac595130e72/ede49/1706148139409-625858-07dptfbn2bn9.webp 270w,\n/static/a342f3736ef9eec256d6fac595130e72/4cb34/1706148139409-625858-07dptfbn2bn9.webp 540w,\n/static/a342f3736ef9eec256d6fac595130e72/4f506/1706148139409-625858-07dptfbn2bn9.webp 1080w",
+                                    "sizes": "(min-width: 1080px) 1080px, 100vw"
+                                },
+                                "sources": []
+                            },
+                            "width": 1080,
+                            "height": 1080
+                        }
+                    }
+                },
+                "slug": "avida-towers-makati-southpoint",
+                "priceRange": "6.51m - 13.61m",
+                "floorAreaSize": "",
+                "unitLinkBtn": "https://reservenow.ayalaland.com/Odyssey/ProjectDetail?a=V7hjW8lBxsJq4gxQ+cIK%2FoRe6EzVZMa15vTxMHraqib8nUhLuFuD6NtPP7a9WeS4XYyTfPF8dp+aak5+4QJ3zg%3D%3D&b=PAATGfH7SB6mO%2BV5F2UJ%2B1hr%2BiHqs%2BR8jl2hPSu4G%2FpPkRow81ygqxNSImKgNBoR2b%2F5Dvwioe11maacGDMnIA%3D%3D",
+                "seoOverviewTitle": "Pre-selling Condo in Makati City | Avida Towers Makati Southpoint",
+                "seoOverviewDescription": "Avida Towers Makati Southpoint is a pre-selling condo in Makati with right-sized units, sensible amenities, and retail areas to complement the urban lifestyle.",
+                "overviewHeadingTag": "Pre-selling Condo in Makati City ",
+                "propertyLocation": "Don Chino Roces Avenue, Brgy. Bangkal, Makati City",
+                "masterPlan": "",
+                "propertyConcept": {
+                    "title": "The right fit for you, Right here.",
+                    "description": "Set to rise in the Metro’s prime business district is your new home in the south of Makati – Avida Towers Makati Southpoint.\nBeing close to the city center means you’ll never miss out on anything. A productive day at work and a late night get-together with loved ones will always be just a few minutes away with all the offices, schools, commercial establishments, parks, and museums surrounding the development.\nWith right-sized units, sensible amenities, and retail areas designed to complement the urban lifestyle of on-the-go professionals, you get the convenience of home and having life’s essentials right at your doorstep.\nHave more time for the things that matter to you most, with the right home and the right amenities, at the right value, right here.\n\nDHSUD LS No. 134 (Tower 1) | DHSUD LS No.156 (Tower 2) | DHSUD NCR AA-2021/05-2878 \n\n"
+                },
+                "gallery": [
+                    {
+                        "id": "aaa43839-092e-4f51-b33f-c6d57f31b339",
+                        "featured": true,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706148139409-625858-07dptfbn2bn9.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/a342f3736ef9eec256d6fac595130e72/4f506/1706148139409-625858-07dptfbn2bn9.webp",
+                                            "srcSet": "/static/a342f3736ef9eec256d6fac595130e72/ede49/1706148139409-625858-07dptfbn2bn9.webp 270w,\n/static/a342f3736ef9eec256d6fac595130e72/4cb34/1706148139409-625858-07dptfbn2bn9.webp 540w,\n/static/a342f3736ef9eec256d6fac595130e72/4f506/1706148139409-625858-07dptfbn2bn9.webp 1080w",
+                                            "sizes": "(min-width: 1080px) 1080px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1080,
+                                    "height": 1080
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "60ae0024-57e3-4d04-966b-a9dcb24f4e83",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706148149286-496132-46e3tynlpff.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#a89898",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/9f346a07746726aa8f9c050a8042e0ef/4f506/1706148149286-496132-46e3tynlpff.webp",
+                                            "srcSet": "/static/9f346a07746726aa8f9c050a8042e0ef/ede49/1706148149286-496132-46e3tynlpff.webp 270w,\n/static/9f346a07746726aa8f9c050a8042e0ef/4cb34/1706148149286-496132-46e3tynlpff.webp 540w,\n/static/9f346a07746726aa8f9c050a8042e0ef/4f506/1706148149286-496132-46e3tynlpff.webp 1080w",
+                                            "sizes": "(min-width: 1080px) 1080px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1080,
+                                    "height": 1080
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "0059e8e4-663e-4f64-a043-f5010b2742fb",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706148156930-115754-608cnkrb2pu.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8e8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/dfb0c35d0df6cc9acb608385ca27cd31/b0434/1706148156930-115754-608cnkrb2pu.webp",
+                                            "srcSet": "/static/dfb0c35d0df6cc9acb608385ca27cd31/1de67/1706148156930-115754-608cnkrb2pu.webp 80w,\n/static/dfb0c35d0df6cc9acb608385ca27cd31/86717/1706148156930-115754-608cnkrb2pu.webp 160w,\n/static/dfb0c35d0df6cc9acb608385ca27cd31/b0434/1706148156930-115754-608cnkrb2pu.webp 320w",
+                                            "sizes": "(min-width: 320px) 320px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 320,
+                                    "height": 480
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "18ace0e6-e164-4c06-9c5c-ae3a24a50921",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706148159750-490952-smtfgo5s8v.webp",
+                        "type": "image",
+                        "optimizedGalleryImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#d8c8b8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/be16108d724f8101997a7cd899e09ed6/4f506/1706148159750-490952-smtfgo5s8v.webp",
+                                            "srcSet": "/static/be16108d724f8101997a7cd899e09ed6/ede49/1706148159750-490952-smtfgo5s8v.webp 270w,\n/static/be16108d724f8101997a7cd899e09ed6/4cb34/1706148159750-490952-smtfgo5s8v.webp 540w,\n/static/be16108d724f8101997a7cd899e09ed6/4f506/1706148159750-490952-smtfgo5s8v.webp 1080w",
+                                            "sizes": "(min-width: 1080px) 1080px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1080,
+                                    "height": 1080
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": "b78b408f-494c-4309-8810-4e13e88559c6",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://storage.net-fs.com/hosting/6929781/17/",
+                        "type": "panorama",
+                        "optimizedGalleryImg": null
+                    },
+                    {
+                        "id": "84aa9456-2f7e-4510-907a-e5a0968c9128",
+                        "featured": false,
+                        "description": "",
+                        "url": "https://youtu.be/bMldWPwq_6U",
+                        "type": "video",
+                        "optimizedGalleryImg": null
+                    }
+                ]
+            }
+        },
+        "pageContext": { "id": "9e864356-a7df-58bd-b6d2-9aa2d2979189" }
+    },
+    "staticQueryHashes": [
+        "3109028461",
+        "3827149321",
+        "65569352",
+        "679905114",
+        "895940688"
+    ]
+}

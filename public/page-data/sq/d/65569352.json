@@ -1,0 +1,10 @@
+{
+    "data": {
+        "reserveNow": {
+            "url": "https://reservenow.ayalaland.com/Odyssey/avida"
+        },
+        "bookAnOfficeAppointment": {
+            "url": "http://qmsonline.avidaland.com/set.php"
+        }
+    }
+}

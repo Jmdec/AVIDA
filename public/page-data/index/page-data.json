@@ -1,0 +1,1239 @@
+{
+    "componentChunkName": "component---src-templates-main-main-tsx",
+    "path": "/",
+    "result": {
+        "data": {
+            "heroBannerProperties": {
+                "nodes": [
+                    {
+                        "propertyName": "Vermont Settings Alviera",
+                        "propertyType": "House and Lot",
+                        "slug": "vermont-settings-alviera",
+                        "priceRange": "4m - 9.2m",
+                        "floorAreaSize": "",
+                        "propertyLocationSpecific": "",
+                        "bedroom": [],
+                        "bathroom": [],
+                        "homeBanner": {
+                            "description": "Vermont Settings Alviera is an approximately 20-hectare residential house and lot development located in Alviera, Ayala Land's master-planned, sustainable estate in Porac, Pampanga.",
+                            "image": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1653657731708-360389-weaglck7er.jpg",
+                            "videoLink": "",
+                            "title": "Vermont Settings Alviera"
+                        },
+                        "optimizedBannerImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#889848",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/d32b4d653368896071d836f5d687095f/0f033/1653657731708-360389-weaglck7er.webp",
+                                            "srcSet": "/static/d32b4d653368896071d836f5d687095f/cb4bd/1653657731708-360389-weaglck7er.webp 250w,\n/static/d32b4d653368896071d836f5d687095f/cd5ef/1653657731708-360389-weaglck7er.webp 500w,\n/static/d32b4d653368896071d836f5d687095f/0f033/1653657731708-360389-weaglck7er.webp 1000w",
+                                            "sizes": "(min-width: 1000px) 1000px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1000,
+                                    "height": 500
+                                }
+                            }
+                        },
+                        "gallery": [
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#889848",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/d32b4d653368896071d836f5d687095f/0f033/1653654680321-360389-nqlg25s6knr.webp",
+                                                    "srcSet": "/static/d32b4d653368896071d836f5d687095f/cb4bd/1653654680321-360389-nqlg25s6knr.webp 250w,\n/static/d32b4d653368896071d836f5d687095f/cd5ef/1653654680321-360389-nqlg25s6knr.webp 500w,\n/static/d32b4d653368896071d836f5d687095f/0f033/1653654680321-360389-nqlg25s6knr.webp 1000w",
+                                                    "sizes": "(min-width: 1000px) 1000px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1000,
+                                            "height": 500
+                                        }
+                                    }
+                                },
+                                "featured": true,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1653654680321-360389-nqlg25s6knr.jpg",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#888898",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/9ed0bcafab3fb9db25f674c98940f592/4edad/1662361330528-412296-t5djyp4tk1j.webp",
+                                                    "srcSet": "/static/9ed0bcafab3fb9db25f674c98940f592/0fb1f/1662361330528-412296-t5djyp4tk1j.webp 340w,\n/static/9ed0bcafab3fb9db25f674c98940f592/bfc4e/1662361330528-412296-t5djyp4tk1j.webp 680w,\n/static/9ed0bcafab3fb9db25f674c98940f592/4edad/1662361330528-412296-t5djyp4tk1j.webp 1360w",
+                                                    "sizes": "(min-width: 1360px) 1360px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1360,
+                                            "height": 840
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1662361330528-412296-t5djyp4tk1j.jpg",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#787888",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/62fa041dde0f2179a8effdc05a8b7258/4edad/1662361336255-473321-2fxwjs8aq6c.webp",
+                                                    "srcSet": "/static/62fa041dde0f2179a8effdc05a8b7258/0fb1f/1662361336255-473321-2fxwjs8aq6c.webp 340w,\n/static/62fa041dde0f2179a8effdc05a8b7258/bfc4e/1662361336255-473321-2fxwjs8aq6c.webp 680w,\n/static/62fa041dde0f2179a8effdc05a8b7258/4edad/1662361336255-473321-2fxwjs8aq6c.webp 1360w",
+                                                    "sizes": "(min-width: 1360px) 1360px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1360,
+                                            "height": 840
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1662361336255-473321-2fxwjs8aq6c.jpg",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#888888",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/546472cfd9a3519b93d832b322ad9d59/4edad/1662361338408-354528-r30zbj8i0n.webp",
+                                                    "srcSet": "/static/546472cfd9a3519b93d832b322ad9d59/0fb1f/1662361338408-354528-r30zbj8i0n.webp 340w,\n/static/546472cfd9a3519b93d832b322ad9d59/bfc4e/1662361338408-354528-r30zbj8i0n.webp 680w,\n/static/546472cfd9a3519b93d832b322ad9d59/4edad/1662361338408-354528-r30zbj8i0n.webp 1360w",
+                                                    "sizes": "(min-width: 1360px) 1360px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1360,
+                                            "height": 840
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1662361338408-354528-r30zbj8i0n.jpg",
+                                "type": "image"
+                            }
+                        ]
+                    },
+                    {
+                        "propertyName": "Southdale Settings NUVALI",
+                        "propertyType": "House and Lot",
+                        "slug": "southdale-settings-nuvali",
+                        "priceRange": "5m - 12.8m",
+                        "floorAreaSize": "52",
+                        "propertyLocationSpecific": "Southdale Settings NUVALI, Nuvali South, Forest Avenue, Calamba City, Laguna, Philippines",
+                        "bedroom": [],
+                        "bathroom": [],
+                        "homeBanner": {
+                            "description": "Southdale Settings NUVALI is a 17.8-hectare residential development in Ayala Land’s master-planned, mixed-use, and sustainable estate in Laguna, Nuvali.",
+                            "image": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1638341954661-210042-78i6c473pjl.jpg",
+                            "videoLink": "",
+                            "title": "Southdale Settings NUVALI"
+                        },
+                        "optimizedBannerImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#98c8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/07c6e1ab7f37a3cc7abe9620ed60b99f/d576a/1638341954661-210042-78i6c473pjl.webp",
+                                            "srcSet": "/static/07c6e1ab7f37a3cc7abe9620ed60b99f/bbb29/1638341954661-210042-78i6c473pjl.webp 320w,\n/static/07c6e1ab7f37a3cc7abe9620ed60b99f/97d90/1638341954661-210042-78i6c473pjl.webp 640w,\n/static/07c6e1ab7f37a3cc7abe9620ed60b99f/d576a/1638341954661-210042-78i6c473pjl.webp 1280w",
+                                            "sizes": "(min-width: 1280px) 1280px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1280,
+                                    "height": 703
+                                }
+                            }
+                        },
+                        "gallery": [
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#98c8f8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/9c4fda9ebd5d12fb2163eacc136ae014/26c89/1706276099531-704456-yyk0d74couh.webp",
+                                                    "srcSet": "/static/9c4fda9ebd5d12fb2163eacc136ae014/75419/1706276099531-704456-yyk0d74couh.webp 910w,\n/static/9c4fda9ebd5d12fb2163eacc136ae014/3c751/1706276099531-704456-yyk0d74couh.webp 1821w,\n/static/9c4fda9ebd5d12fb2163eacc136ae014/26c89/1706276099531-704456-yyk0d74couh.webp 3641w",
+                                                    "sizes": "(min-width: 3641px) 3641px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 3641,
+                                            "height": 2048
+                                        }
+                                    }
+                                },
+                                "featured": true,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706276099531-704456-yyk0d74couh.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#c8e8f8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/7aceeab4f6c8968a8e483da13ba4b116/375c6/1706276110420-427836-84rsh4wjri9.webp",
+                                                    "srcSet": "/static/7aceeab4f6c8968a8e483da13ba4b116/7edad/1706276110420-427836-84rsh4wjri9.webp 483w,\n/static/7aceeab4f6c8968a8e483da13ba4b116/fcce1/1706276110420-427836-84rsh4wjri9.webp 965w,\n/static/7aceeab4f6c8968a8e483da13ba4b116/375c6/1706276110420-427836-84rsh4wjri9.webp 1930w",
+                                                    "sizes": "(min-width: 1930px) 1930px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1930,
+                                            "height": 1086
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706276110420-427836-84rsh4wjri9.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#d8d8e8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/a25e5dec92f6f22b66c29f0a954c587c/bde8a/1706276119575-50514-0uqv5dkiedp.webp",
+                                                    "srcSet": "/static/a25e5dec92f6f22b66c29f0a954c587c/769c8/1706276119575-50514-0uqv5dkiedp.webp 240w,\n/static/a25e5dec92f6f22b66c29f0a954c587c/3a3a2/1706276119575-50514-0uqv5dkiedp.webp 480w,\n/static/a25e5dec92f6f22b66c29f0a954c587c/bde8a/1706276119575-50514-0uqv5dkiedp.webp 960w",
+                                                    "sizes": "(min-width: 960px) 960px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 960,
+                                            "height": 540
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706276119575-50514-0uqv5dkiedp.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#789848",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/01478d83d0c0d1b94b5389265c87e04a/5df1f/1706276125646-1410326-dyzmcy3rwfl.webp",
+                                                    "srcSet": "/static/01478d83d0c0d1b94b5389265c87e04a/08dd4/1706276125646-1410326-dyzmcy3rwfl.webp 960w,\n/static/01478d83d0c0d1b94b5389265c87e04a/2555b/1706276125646-1410326-dyzmcy3rwfl.webp 1920w,\n/static/01478d83d0c0d1b94b5389265c87e04a/5df1f/1706276125646-1410326-dyzmcy3rwfl.webp 3840w",
+                                                    "sizes": "(min-width: 3840px) 3840px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 3840,
+                                            "height": 2640
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706276125646-1410326-dyzmcy3rwfl.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#888888",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/66bd2062b169ee465536a6c875ff9f3f/1aa0e/1706276132699-45706-hs2uoqwriv.webp",
+                                                    "srcSet": "/static/66bd2062b169ee465536a6c875ff9f3f/8a4d2/1706276132699-45706-hs2uoqwriv.webp 171w,\n/static/66bd2062b169ee465536a6c875ff9f3f/2fe5b/1706276132699-45706-hs2uoqwriv.webp 341w,\n/static/66bd2062b169ee465536a6c875ff9f3f/1aa0e/1706276132699-45706-hs2uoqwriv.webp 682w",
+                                                    "sizes": "(min-width: 682px) 682px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 682,
+                                            "height": 384
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706276132699-45706-hs2uoqwriv.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#787878",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/206fa942212de0f27a401a16fee26430/1aa0e/1706276138784-46226-73np9h6afl3.webp",
+                                                    "srcSet": "/static/206fa942212de0f27a401a16fee26430/8a4d2/1706276138784-46226-73np9h6afl3.webp 171w,\n/static/206fa942212de0f27a401a16fee26430/2fe5b/1706276138784-46226-73np9h6afl3.webp 341w,\n/static/206fa942212de0f27a401a16fee26430/1aa0e/1706276138784-46226-73np9h6afl3.webp 682w",
+                                                    "sizes": "(min-width: 682px) 682px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 682,
+                                            "height": 384
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706276138784-46226-73np9h6afl3.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": null,
+                                "featured": false,
+                                "description": "",
+                                "url": "https://livetour.istaging.com/164dce58-e30f-4bbe-b238-be45fc855401?index=2",
+                                "type": "panorama"
+                            },
+                            {
+                                "optimizedGalleryImg": null,
+                                "featured": false,
+                                "description": "",
+                                "url": "https://storage.net-fs.com/hosting/6583958/5/index.htm?fbclid=IwAR34DdxzNxmepqnSfJlG60WHoRWx2q0WKsV_3i_p7lMk2qMTEeI20BCnGrg",
+                                "type": "panorama"
+                            }
+                        ]
+                    },
+                    {
+                        "propertyName": "Centralis Towers",
+                        "propertyType": "Condominium",
+                        "slug": "centralis-towers",
+                        "priceRange": "5.85m - 18.49m",
+                        "floorAreaSize": "",
+                        "propertyLocationSpecific": "Centralis Towers, Taft Avenue, Pasay, Metro Manila, Philippines",
+                        "bedroom": [1],
+                        "bathroom": [],
+                        "homeBanner": {
+                            "description": "From its strategic location and thoughtfully-designed units. living at Centralis Towers creates numerous opportunities for its residents - a place where you can focus on what's essential, and a location that puts you at the center of everything.",
+                            "image": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1638341792088-220797-0r73gdapraj.jpg",
+                            "videoLink": "",
+                            "title": "Centralis Towers"
+                        },
+                        "optimizedBannerImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#b8b8c8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/931246b08d07ae3623fd54ce789515fc/d576a/1638341792088-220797-0r73gdapraj.webp",
+                                            "srcSet": "/static/931246b08d07ae3623fd54ce789515fc/bbb29/1638341792088-220797-0r73gdapraj.webp 320w,\n/static/931246b08d07ae3623fd54ce789515fc/97d90/1638341792088-220797-0r73gdapraj.webp 640w,\n/static/931246b08d07ae3623fd54ce789515fc/d576a/1638341792088-220797-0r73gdapraj.webp 1280w",
+                                            "sizes": "(min-width: 1280px) 1280px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1280,
+                                    "height": 703
+                                }
+                            }
+                        },
+                        "gallery": [
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#a8a8b8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/3a1b6b71d90a3d03ef696c829984f7c1/31cc3/1706145829718-484756-ga35g95ks7s.webp",
+                                                    "srcSet": "/static/3a1b6b71d90a3d03ef696c829984f7c1/091a1/1706145829718-484756-ga35g95ks7s.webp 300w,\n/static/3a1b6b71d90a3d03ef696c829984f7c1/763bf/1706145829718-484756-ga35g95ks7s.webp 600w,\n/static/3a1b6b71d90a3d03ef696c829984f7c1/31cc3/1706145829718-484756-ga35g95ks7s.webp 1200w",
+                                                    "sizes": "(min-width: 1200px) 1200px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1200,
+                                            "height": 628
+                                        }
+                                    }
+                                },
+                                "featured": true,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706145829718-484756-ga35g95ks7s.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#383848",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/747866655fdb97273963539630ec3637/c1587/1706145868816-341150-oawcqld1y6i.webp",
+                                                    "srcSet": "/static/747866655fdb97273963539630ec3637/2e34e/1706145868816-341150-oawcqld1y6i.webp 200w,\n/static/747866655fdb97273963539630ec3637/416c3/1706145868816-341150-oawcqld1y6i.webp 400w,\n/static/747866655fdb97273963539630ec3637/c1587/1706145868816-341150-oawcqld1y6i.webp 800w",
+                                                    "sizes": "(min-width: 800px) 800px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 800,
+                                            "height": 800
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706145868816-341150-oawcqld1y6i.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#d8c8b8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/079a0eefa1987f76bf7ef613f909dd61/31cc3/1706146062917-258170-qbrl68w6pjp.webp",
+                                                    "srcSet": "/static/079a0eefa1987f76bf7ef613f909dd61/091a1/1706146062917-258170-qbrl68w6pjp.webp 300w,\n/static/079a0eefa1987f76bf7ef613f909dd61/763bf/1706146062917-258170-qbrl68w6pjp.webp 600w,\n/static/079a0eefa1987f76bf7ef613f909dd61/31cc3/1706146062917-258170-qbrl68w6pjp.webp 1200w",
+                                                    "sizes": "(min-width: 1200px) 1200px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1200,
+                                            "height": 628
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706146062917-258170-qbrl68w6pjp.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#787878",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/88fa3a75f73a2cf0758096c60a7fd8d6/71d4d/1706150596031-89492-6kdykc3dmd.webp",
+                                                    "srcSet": "/static/88fa3a75f73a2cf0758096c60a7fd8d6/c0bcc/1706150596031-89492-6kdykc3dmd.webp 320w,\n/static/88fa3a75f73a2cf0758096c60a7fd8d6/17574/1706150596031-89492-6kdykc3dmd.webp 640w,\n/static/88fa3a75f73a2cf0758096c60a7fd8d6/71d4d/1706150596031-89492-6kdykc3dmd.webp 1280w",
+                                                    "sizes": "(min-width: 1280px) 1280px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706150596031-89492-6kdykc3dmd.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#c8c8b8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/799d99e2d5797e5abaab29bd999abefa/71d4d/1706150598855-47630-zspjz4c4txf.webp",
+                                                    "srcSet": "/static/799d99e2d5797e5abaab29bd999abefa/c0bcc/1706150598855-47630-zspjz4c4txf.webp 320w,\n/static/799d99e2d5797e5abaab29bd999abefa/17574/1706150598855-47630-zspjz4c4txf.webp 640w,\n/static/799d99e2d5797e5abaab29bd999abefa/71d4d/1706150598855-47630-zspjz4c4txf.webp 1280w",
+                                                    "sizes": "(min-width: 1280px) 1280px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706150598855-47630-zspjz4c4txf.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#483838",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/34710d62a3bcb7d0aa4449450fa667db/71d4d/1706150600701-109258-83hvnsvhuye.webp",
+                                                    "srcSet": "/static/34710d62a3bcb7d0aa4449450fa667db/c0bcc/1706150600701-109258-83hvnsvhuye.webp 320w,\n/static/34710d62a3bcb7d0aa4449450fa667db/17574/1706150600701-109258-83hvnsvhuye.webp 640w,\n/static/34710d62a3bcb7d0aa4449450fa667db/71d4d/1706150600701-109258-83hvnsvhuye.webp 1280w",
+                                                    "sizes": "(min-width: 1280px) 1280px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706150600701-109258-83hvnsvhuye.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": null,
+                                "featured": false,
+                                "description": "",
+                                "url": "https://storage.net-fs.com/hosting/7269015/4/",
+                                "type": "panorama"
+                            },
+                            {
+                                "optimizedGalleryImg": null,
+                                "featured": false,
+                                "description": "",
+                                "url": "https://storage.net-fs.com/hosting/7269015/4/",
+                                "type": "video"
+                            }
+                        ]
+                    },
+                    {
+                        "propertyName": "Patio Madrigal",
+                        "propertyType": "Condominium",
+                        "slug": "patio-madrigal",
+                        "priceRange": "7.96m - 20.18m",
+                        "floorAreaSize": "",
+                        "propertyLocationSpecific": "Patio Madrigal, Service Road, Pasay, Metro Manila, Philippines",
+                        "bedroom": [1],
+                        "bathroom": [],
+                        "homeBanner": {
+                            "description": "Come home to a place where life, work, and play blend together in perfect harmony with its right-sized units, sensible amenities, and curated retail spaces.",
+                            "image": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1638342086349-194603-ds1o22p0un.jpg",
+                            "videoLink": "",
+                            "title": "Patio Madrigal"
+                        },
+                        "optimizedBannerImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#d8d8d8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/581636c9c98d5154a8ff7d3380a6d4a3/d576a/1638342086349-194603-ds1o22p0un.webp",
+                                            "srcSet": "/static/581636c9c98d5154a8ff7d3380a6d4a3/bbb29/1638342086349-194603-ds1o22p0un.webp 320w,\n/static/581636c9c98d5154a8ff7d3380a6d4a3/97d90/1638342086349-194603-ds1o22p0un.webp 640w,\n/static/581636c9c98d5154a8ff7d3380a6d4a3/d576a/1638342086349-194603-ds1o22p0un.webp 1280w",
+                                            "sizes": "(min-width: 1280px) 1280px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1280,
+                                    "height": 703
+                                }
+                            }
+                        },
+                        "gallery": [
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#c8c8d8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/b7d24779b65a4d90863af57afced1be5/4f506/1706148580510-683504-j1yzglgcdpg.webp",
+                                                    "srcSet": "/static/b7d24779b65a4d90863af57afced1be5/ede49/1706148580510-683504-j1yzglgcdpg.webp 270w,\n/static/b7d24779b65a4d90863af57afced1be5/4cb34/1706148580510-683504-j1yzglgcdpg.webp 540w,\n/static/b7d24779b65a4d90863af57afced1be5/4f506/1706148580510-683504-j1yzglgcdpg.webp 1080w",
+                                                    "sizes": "(min-width: 1080px) 1080px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1080,
+                                            "height": 1080
+                                        }
+                                    }
+                                },
+                                "featured": true,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706148580510-683504-j1yzglgcdpg.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#b8c8d8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/8075ce36a0d89e02ca4381e4bdd41ef2/4f506/1706148642370-507022-vidl7p6dqkl.webp",
+                                                    "srcSet": "/static/8075ce36a0d89e02ca4381e4bdd41ef2/ede49/1706148642370-507022-vidl7p6dqkl.webp 270w,\n/static/8075ce36a0d89e02ca4381e4bdd41ef2/4cb34/1706148642370-507022-vidl7p6dqkl.webp 540w,\n/static/8075ce36a0d89e02ca4381e4bdd41ef2/4f506/1706148642370-507022-vidl7p6dqkl.webp 1080w",
+                                                    "sizes": "(min-width: 1080px) 1080px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1080,
+                                            "height": 1080
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706148642370-507022-vidl7p6dqkl.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#c8c8c8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/8863eb7a9a95f86c6817c5617f681916/4f506/1706148646461-502964-krm580luo5l.webp",
+                                                    "srcSet": "/static/8863eb7a9a95f86c6817c5617f681916/ede49/1706148646461-502964-krm580luo5l.webp 270w,\n/static/8863eb7a9a95f86c6817c5617f681916/4cb34/1706148646461-502964-krm580luo5l.webp 540w,\n/static/8863eb7a9a95f86c6817c5617f681916/4f506/1706148646461-502964-krm580luo5l.webp 1080w",
+                                                    "sizes": "(min-width: 1080px) 1080px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1080,
+                                            "height": 1080
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706148646461-502964-krm580luo5l.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#a89898",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/d12043b86a6bfc274ed71f0d460128c9/4f506/1706148649398-356730-c1gugcvju6.webp",
+                                                    "srcSet": "/static/d12043b86a6bfc274ed71f0d460128c9/ede49/1706148649398-356730-c1gugcvju6.webp 270w,\n/static/d12043b86a6bfc274ed71f0d460128c9/4cb34/1706148649398-356730-c1gugcvju6.webp 540w,\n/static/d12043b86a6bfc274ed71f0d460128c9/4f506/1706148649398-356730-c1gugcvju6.webp 1080w",
+                                                    "sizes": "(min-width: 1080px) 1080px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1080,
+                                            "height": 1080
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706148649398-356730-c1gugcvju6.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#c8c8c8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/115b42cceeb8aaeea36cdb8dbc4ba2cc/4f506/1706148656229-720542-nil0w8hlxij.webp",
+                                                    "srcSet": "/static/115b42cceeb8aaeea36cdb8dbc4ba2cc/ede49/1706148656229-720542-nil0w8hlxij.webp 270w,\n/static/115b42cceeb8aaeea36cdb8dbc4ba2cc/4cb34/1706148656229-720542-nil0w8hlxij.webp 540w,\n/static/115b42cceeb8aaeea36cdb8dbc4ba2cc/4f506/1706148656229-720542-nil0w8hlxij.webp 1080w",
+                                                    "sizes": "(min-width: 1080px) 1080px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1080,
+                                            "height": 1080
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706148656229-720542-nil0w8hlxij.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#d8d8d8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/ebf4d97ac71bfa18007037a65d34fe5e/e5ba0/1706150355946-547906-v0m44js37is.webp",
+                                                    "srcSet": "/static/ebf4d97ac71bfa18007037a65d34fe5e/0f033/1706150355946-547906-v0m44js37is.webp 1000w,\n/static/ebf4d97ac71bfa18007037a65d34fe5e/c0e95/1706150355946-547906-v0m44js37is.webp 2000w,\n/static/ebf4d97ac71bfa18007037a65d34fe5e/e5ba0/1706150355946-547906-v0m44js37is.webp 4000w",
+                                                    "sizes": "(min-width: 4000px) 4000px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 4000,
+                                            "height": 2000
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706150355946-547906-v0m44js37is.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#c8c8c8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/54ed2c15950cbfbd37d03df1f43b8bef/e96f2/1706150361203-1644604-5i5bexrcqm9.webp",
+                                                    "srcSet": "/static/54ed2c15950cbfbd37d03df1f43b8bef/9306b/1706150361203-1644604-5i5bexrcqm9.webp 1000w,\n/static/54ed2c15950cbfbd37d03df1f43b8bef/52b95/1706150361203-1644604-5i5bexrcqm9.webp 2000w,\n/static/54ed2c15950cbfbd37d03df1f43b8bef/e96f2/1706150361203-1644604-5i5bexrcqm9.webp 4000w",
+                                                    "sizes": "(min-width: 4000px) 4000px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 4000,
+                                            "height": 2004
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706150361203-1644604-5i5bexrcqm9.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#c8c8c8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/52c4051e9b655134bddc2d3099ba96b1/ca863/1706150368476-357098-h2leyo3b1wc.webp",
+                                                    "srcSet": "/static/52c4051e9b655134bddc2d3099ba96b1/1ff2c/1706150368476-357098-h2leyo3b1wc.webp 1500w,\n/static/52c4051e9b655134bddc2d3099ba96b1/002b2/1706150368476-357098-h2leyo3b1wc.webp 3000w,\n/static/52c4051e9b655134bddc2d3099ba96b1/ca863/1706150368476-357098-h2leyo3b1wc.webp 6000w",
+                                                    "sizes": "(min-width: 6000px) 6000px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 6000,
+                                            "height": 3000
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706150368476-357098-h2leyo3b1wc.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#c8c8c8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/1289580ae0e697f7a1b4d2fa3c101fd6/e5ba0/1706150376265-578850-mqoajz9f87.webp",
+                                                    "srcSet": "/static/1289580ae0e697f7a1b4d2fa3c101fd6/0f033/1706150376265-578850-mqoajz9f87.webp 1000w,\n/static/1289580ae0e697f7a1b4d2fa3c101fd6/c0e95/1706150376265-578850-mqoajz9f87.webp 2000w,\n/static/1289580ae0e697f7a1b4d2fa3c101fd6/e5ba0/1706150376265-578850-mqoajz9f87.webp 4000w",
+                                                    "sizes": "(min-width: 4000px) 4000px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 4000,
+                                            "height": 2000
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706150376265-578850-mqoajz9f87.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#b8a898",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/98f8dc369b013e9bffc8fcabbe81201f/e5ba0/1706150379828-694488-qw3t18a3fnl.webp",
+                                                    "srcSet": "/static/98f8dc369b013e9bffc8fcabbe81201f/0f033/1706150379828-694488-qw3t18a3fnl.webp 1000w,\n/static/98f8dc369b013e9bffc8fcabbe81201f/c0e95/1706150379828-694488-qw3t18a3fnl.webp 2000w,\n/static/98f8dc369b013e9bffc8fcabbe81201f/e5ba0/1706150379828-694488-qw3t18a3fnl.webp 4000w",
+                                                    "sizes": "(min-width: 4000px) 4000px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 4000,
+                                            "height": 2000
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706150379828-694488-qw3t18a3fnl.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#989898",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/77e807fc4dd4a97d906b436bffa34409/d36eb/1706150383814-201280-jlyc8c4xxdq.webp",
+                                                    "srcSet": "/static/77e807fc4dd4a97d906b436bffa34409/cd07d/1706150383814-201280-jlyc8c4xxdq.webp 500w,\n/static/77e807fc4dd4a97d906b436bffa34409/bf95e/1706150383814-201280-jlyc8c4xxdq.webp 1000w,\n/static/77e807fc4dd4a97d906b436bffa34409/d36eb/1706150383814-201280-jlyc8c4xxdq.webp 2000w",
+                                                    "sizes": "(min-width: 2000px) 2000px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 2000,
+                                            "height": 1125
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706150383814-201280-jlyc8c4xxdq.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": null,
+                                "featured": false,
+                                "description": "",
+                                "url": "https://storage.net-fs.com/hosting/7319940/18/",
+                                "type": "panorama"
+                            },
+                            {
+                                "optimizedGalleryImg": null,
+                                "featured": false,
+                                "description": "",
+                                "url": "https://storage.net-fs.com/hosting/7319940/18/",
+                                "type": "video"
+                            }
+                        ]
+                    },
+                    {
+                        "propertyName": "Avida Towers Vireo",
+                        "propertyType": "Condominium",
+                        "slug": "avida-towers-vireo",
+                        "priceRange": "5.37m - 14.691m",
+                        "floorAreaSize": "",
+                        "propertyLocationSpecific": "Arca south, Taguig, Metro Manila, Philippines",
+                        "bedroom": [],
+                        "bathroom": [],
+                        "homeBanner": {
+                            "description": "Go Beyond Living. At Avida Towers Vireo, life is defined by the promise of growth, a sense of newness, and fresh vigor. This residential development introduces a way of life that allows you to bloom and thrive.",
+                            "image": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1686789688084-3530080-69lo4xubrnt.mp4",
+                            "videoLink": "",
+                            "title": "Avida Towers Vireo"
+                        },
+                        "optimizedBannerImg": { "childImageSharp": null },
+                        "gallery": [
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#98c8e8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/bba39381d741ceb3a772a291cbbf0443/7a06a/1706146157332-704538-8vov6y7udcm.webp",
+                                                    "srcSet": "/static/bba39381d741ceb3a772a291cbbf0443/c952f/1706146157332-704538-8vov6y7udcm.webp 702w,\n/static/bba39381d741ceb3a772a291cbbf0443/63228/1706146157332-704538-8vov6y7udcm.webp 1404w,\n/static/bba39381d741ceb3a772a291cbbf0443/7a06a/1706146157332-704538-8vov6y7udcm.webp 2807w",
+                                                    "sizes": "(min-width: 2807px) 2807px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 2807,
+                                            "height": 1718
+                                        }
+                                    }
+                                },
+                                "featured": true,
+                                "description": "",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706146157332-704538-8vov6y7udcm.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#080808",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/de654a0a8e06af1bf4fd4fe9d521a12d/e98e7/1706146181989-167398-68vcj8jmcxh.webp",
+                                                    "srcSet": "/static/de654a0a8e06af1bf4fd4fe9d521a12d/6a7d4/1706146181989-167398-68vcj8jmcxh.webp 512w,\n/static/de654a0a8e06af1bf4fd4fe9d521a12d/3b771/1706146181989-167398-68vcj8jmcxh.webp 1024w,\n/static/de654a0a8e06af1bf4fd4fe9d521a12d/e98e7/1706146181989-167398-68vcj8jmcxh.webp 2048w",
+                                                    "sizes": "(min-width: 2048px) 2048px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 2048,
+                                            "height": 1367
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "Indoor Gym",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706146181989-167398-68vcj8jmcxh.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#c8b8a8",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/8c2ac9e0022fc67e1704f7ddfae12f36/e98e7/1706146185414-138828-53l2zu9w0z3.webp",
+                                                    "srcSet": "/static/8c2ac9e0022fc67e1704f7ddfae12f36/6a7d4/1706146185414-138828-53l2zu9w0z3.webp 512w,\n/static/8c2ac9e0022fc67e1704f7ddfae12f36/3b771/1706146185414-138828-53l2zu9w0z3.webp 1024w,\n/static/8c2ac9e0022fc67e1704f7ddfae12f36/e98e7/1706146185414-138828-53l2zu9w0z3.webp 2048w",
+                                                    "sizes": "(min-width: 2048px) 2048px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 2048,
+                                            "height": 1367
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "Lobby (Tower 1)",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706146185414-138828-53l2zu9w0z3.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#988868",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/6ec2885cb9ff8e5dd3848894fb9bdeeb/0aa83/1706146189861-119924-nx6rldz5bif.webp",
+                                                    "srcSet": "/static/6ec2885cb9ff8e5dd3848894fb9bdeeb/4fdb9/1706146189861-119924-nx6rldz5bif.webp 300w,\n/static/6ec2885cb9ff8e5dd3848894fb9bdeeb/6f6c7/1706146189861-119924-nx6rldz5bif.webp 600w,\n/static/6ec2885cb9ff8e5dd3848894fb9bdeeb/0aa83/1706146189861-119924-nx6rldz5bif.webp 1200w",
+                                                    "sizes": "(min-width: 1200px) 1200px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 1200,
+                                            "height": 1600
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "Lobby (Tower 2)",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706146189861-119924-nx6rldz5bif.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "backgroundColor": "#c8a888",
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/8cb0ed9715ba53f31993421af917ba68/f44f2/1706149980799-501772-yyr86xoz1b.webp",
+                                                    "srcSet": "/static/8cb0ed9715ba53f31993421af917ba68/b90f4/1706149980799-501772-yyr86xoz1b.webp 688w,\n/static/8cb0ed9715ba53f31993421af917ba68/fda1c/1706149980799-501772-yyr86xoz1b.webp 1375w,\n/static/8cb0ed9715ba53f31993421af917ba68/f44f2/1706149980799-501772-yyr86xoz1b.webp 2750w",
+                                                    "sizes": "(min-width: 2750px) 2750px, 100vw"
+                                                },
+                                                "sources": []
+                                            },
+                                            "width": 2750,
+                                            "height": 3664
+                                        }
+                                    }
+                                },
+                                "featured": false,
+                                "description": "Studio",
+                                "url": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706149980799-501772-yyr86xoz1b.webp",
+                                "type": "image"
+                            },
+                            {
+                                "optimizedGalleryImg": null,
+                                "featured": false,
+                                "description": "",
+                                "url": "https://storage.net-fs.com/hosting/6583958/1/index.htm?fbclid=IwAR1fzH83v-CgaZ6RjNcznITrFHIXO2TiqtGpMmZVouFCQaiU6_QKYt-wWYQ",
+                                "type": "panorama"
+                            },
+                            {
+                                "optimizedGalleryImg": null,
+                                "featured": false,
+                                "description": "",
+                                "url": "https://www.youtube.com/embed/xbY25rPgYZ8",
+                                "type": "video"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "heroBannerNewsAndEvents": { "nodes": [] },
+            "heroBannerAnnouncements": { "nodes": [] },
+            "heroBannerPursuitOfPassion": { "nodes": [] },
+            "featuredProperties": {
+                "nodes": [
+                    {
+                        "propertyName": "Solara Park Storeys Nuvali",
+                        "propertyType": "Condominium",
+                        "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706078465254-866314-aaq2pojlol7.webp",
+                        "slug": "solara-park-storeys-nuvali",
+                        "priceRange": "4.8m - 7.6m",
+                        "floorAreaSize": "35.8",
+                        "lotAreaSize": "",
+                        "propertyLocation": "Nuvali, Laguna",
+                        "optimizedFeaturedImg": {
+                            "childImageSharp": {
+                                "fluid": {
+                                    "base64": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAwCdASoUAA0APtFWpEuoJKOhsAgBABoJYgCdIExCuPgWNn0FWcAA/l3PQInBfFEtR7z0P4e6gDrxU7PiXFmjoLU1+Pv7U2Tg99yILObIIPWzyruXYrXOAxonnD2x0ooRdVWLCmLQkAAA",
+                                    "aspectRatio": 1.5894039735099337,
+                                    "src": "/static/353e4ecdf7849961be1ae0d332f21b44/6833b/1706078465254-866314-aaq2pojlol7.webp",
+                                    "srcSet": "/static/353e4ecdf7849961be1ae0d332f21b44/61162/1706078465254-866314-aaq2pojlol7.webp 480w,\n/static/353e4ecdf7849961be1ae0d332f21b44/596e5/1706078465254-866314-aaq2pojlol7.webp 960w,\n/static/353e4ecdf7849961be1ae0d332f21b44/6833b/1706078465254-866314-aaq2pojlol7.webp 1920w,\n/static/353e4ecdf7849961be1ae0d332f21b44/5c931/1706078465254-866314-aaq2pojlol7.webp 2880w,\n/static/353e4ecdf7849961be1ae0d332f21b44/7d6cd/1706078465254-866314-aaq2pojlol7.webp 3840w,\n/static/353e4ecdf7849961be1ae0d332f21b44/3334f/1706078465254-866314-aaq2pojlol7.webp 6000w",
+                                    "srcWebp": "/static/353e4ecdf7849961be1ae0d332f21b44/6833b/1706078465254-866314-aaq2pojlol7.webp",
+                                    "srcSetWebp": "/static/353e4ecdf7849961be1ae0d332f21b44/61162/1706078465254-866314-aaq2pojlol7.webp 480w,\n/static/353e4ecdf7849961be1ae0d332f21b44/596e5/1706078465254-866314-aaq2pojlol7.webp 960w,\n/static/353e4ecdf7849961be1ae0d332f21b44/6833b/1706078465254-866314-aaq2pojlol7.webp 1920w,\n/static/353e4ecdf7849961be1ae0d332f21b44/5c931/1706078465254-866314-aaq2pojlol7.webp 2880w,\n/static/353e4ecdf7849961be1ae0d332f21b44/7d6cd/1706078465254-866314-aaq2pojlol7.webp 3840w,\n/static/353e4ecdf7849961be1ae0d332f21b44/3334f/1706078465254-866314-aaq2pojlol7.webp 6000w",
+                                    "sizes": "(max-width: 1920px) 100vw, 1920px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "propertyName": "Greenlane Settings",
+                        "propertyType": "House and Lot",
+                        "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1703134550493-118162-9ulb3f9p6pt.jpg",
+                        "slug": "greenlane-settings",
+                        "priceRange": "2.6m - 7.5m",
+                        "floorAreaSize": "",
+                        "lotAreaSize": "",
+                        "propertyLocation": "Near Maharlika Highway, Brgy. Alibagu, Ilagan City, Isabela",
+                        "optimizedFeaturedImg": {
+                            "childImageSharp": {
+                                "fluid": {
+                                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBAv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAB4S6YuQp//8QAGBAAAgMAAAAAAAAAAAAAAAAAAhMAESD/2gAIAQEAAQUCaUYVNx//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEgH/2gAIAQIBAT8BrVP/xAAYEAACAwAAAAAAAAAAAAAAAAACECAhQf/aAAgBAQAGPwKyWw//xAAbEAEAAgIDAAAAAAAAAAAAAAABAEEQMRFRcf/aAAgBAQABPyE7DcLHLFDp+MuXj//aAAwDAQACAAMAAAAQZ8//xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhUf/aAAgBAwEBPxCsJR//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxAU/8QAHhABAAEEAgMAAAAAAAAAAAAAAQARITFREGFBgfD/2gAIAQEAAT8QU0W7I6sY3DHfFE9ePqyhsMuNG3ZwIVMLP//Z",
+                                    "aspectRatio": 2,
+                                    "src": "/static/fc99f1c9f34d643748c9e2c2045a7c1f/d91f7/1703134550493-118162-9ulb3f9p6pt.jpg",
+                                    "srcSet": "/static/fc99f1c9f34d643748c9e2c2045a7c1f/e3903/1703134550493-118162-9ulb3f9p6pt.jpg 480w,\n/static/fc99f1c9f34d643748c9e2c2045a7c1f/b31d1/1703134550493-118162-9ulb3f9p6pt.jpg 960w,\n/static/fc99f1c9f34d643748c9e2c2045a7c1f/d91f7/1703134550493-118162-9ulb3f9p6pt.jpg 1000w",
+                                    "srcWebp": "/static/fc99f1c9f34d643748c9e2c2045a7c1f/47f67/1703134550493-118162-9ulb3f9p6pt.webp",
+                                    "srcSetWebp": "/static/fc99f1c9f34d643748c9e2c2045a7c1f/61162/1703134550493-118162-9ulb3f9p6pt.webp 480w,\n/static/fc99f1c9f34d643748c9e2c2045a7c1f/596e5/1703134550493-118162-9ulb3f9p6pt.webp 960w,\n/static/fc99f1c9f34d643748c9e2c2045a7c1f/47f67/1703134550493-118162-9ulb3f9p6pt.webp 1000w",
+                                    "sizes": "(max-width: 1000px) 100vw, 1000px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "propertyName": "Avida Towers Altura",
+                        "propertyType": "Condominium",
+                        "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/objects/1706085263828-134232-g39vakdl3de.webp",
+                        "slug": "avida-towers-altura",
+                        "priceRange": "3.97936m - 11.64352m",
+                        "floorAreaSize": "",
+                        "lotAreaSize": "",
+                        "propertyLocation": "National Road, Muntinlupa City",
+                        "optimizedFeaturedImg": {
+                            "childImageSharp": {
+                                "fluid": {
+                                    "base64": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAwCdASoUAAwAPtFWo0uoJKMhsAgBABoJZACdABawH+8QcUiZYAAA/o0h2Y+msi+HdqFZX56i8EpHTfSwUbkYieIk5eF3SbJjDbEM4bwcIuVMVrb49MZUlrXIDkZKS8/5V4Z7QvzF48L7/zMXMm6rF1S1LkKwQFM9CND68v5uGgAA",
+                                    "aspectRatio": 1.7142857142857142,
+                                    "src": "/static/b1dffb91c04dee879119fc58abe7555b/c9693/1706085263828-134232-g39vakdl3de.webp",
+                                    "srcSet": "/static/b1dffb91c04dee879119fc58abe7555b/61162/1706085263828-134232-g39vakdl3de.webp 480w,\n/static/b1dffb91c04dee879119fc58abe7555b/596e5/1706085263828-134232-g39vakdl3de.webp 960w,\n/static/b1dffb91c04dee879119fc58abe7555b/c9693/1706085263828-134232-g39vakdl3de.webp 1030w",
+                                    "srcWebp": "/static/b1dffb91c04dee879119fc58abe7555b/c9693/1706085263828-134232-g39vakdl3de.webp",
+                                    "srcSetWebp": "/static/b1dffb91c04dee879119fc58abe7555b/61162/1706085263828-134232-g39vakdl3de.webp 480w,\n/static/b1dffb91c04dee879119fc58abe7555b/596e5/1706085263828-134232-g39vakdl3de.webp 960w,\n/static/b1dffb91c04dee879119fc58abe7555b/c9693/1706085263828-134232-g39vakdl3de.webp 1030w",
+                                    "sizes": "(max-width: 1030px) 100vw, 1030px"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "featuredNewsAndEvents": {
+                "nodes": [
+                    {
+                        "title": "Avida Land Celebrates Filipino Talent in South Park District's Art Installations",
+                        "slug": "avida-land-celebrates-filipino-talent-in-south-park-districts-art-installations",
+                        "category": "news",
+                        "datePublished": "February 10, 2024",
+                        "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/images/1707574386212-1072444-kt744bupb6d.webp",
+                        "optimizedFeaturedImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#c8d8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/176701bc463cedd1ba3884c9469c7130/58ce1/1707574386212-1072444-kt744bupb6d.webp",
+                                            "srcSet": "/static/176701bc463cedd1ba3884c9469c7130/b1d5f/1707574386212-1072444-kt744bupb6d.webp 682w,\n/static/176701bc463cedd1ba3884c9469c7130/d9503/1707574386212-1072444-kt744bupb6d.webp 1365w,\n/static/176701bc463cedd1ba3884c9469c7130/58ce1/1707574386212-1072444-kt744bupb6d.webp 2729w",
+                                            "sizes": "(min-width: 2729px) 2729px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 2729,
+                                    "height": 1836.0000000000002
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "title": "Homepossible: Elevated Living",
+                        "slug": "homepossible-elevated-living",
+                        "category": "events",
+                        "datePublished": "February 02, 2024",
+                        "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/images/1706876164279-309069-ltpgeofrwb.png",
+                        "optimizedFeaturedImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8e8e8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/be303c2923ea5f93c62936a0b0f995f6/b7cd4/1706876164279-309069-ltpgeofrwb.webp",
+                                            "srcSet": "/static/be303c2923ea5f93c62936a0b0f995f6/6daed/1706876164279-309069-ltpgeofrwb.webp 400w,\n/static/be303c2923ea5f93c62936a0b0f995f6/2632f/1706876164279-309069-ltpgeofrwb.webp 800w,\n/static/be303c2923ea5f93c62936a0b0f995f6/b7cd4/1706876164279-309069-ltpgeofrwb.webp 1600w",
+                                            "sizes": "(min-width: 1600px) 1600px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1600,
+                                    "height": 400
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "title": "Avida Land is a Bronze Stevie Winner in the 20th International Business Awards 2023",
+                        "slug": "avida-land-is-a-bronze-stevie-winner-in-the-20th-international-business-awards-2023",
+                        "category": "news",
+                        "datePublished": "August 24, 2023",
+                        "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/images/1692855616342-230453-fpjh8g0ydk.jpg",
+                        "optimizedFeaturedImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#2878a8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/b1cfc42821c5c808f6c0d0933b3de1b9/384f8/1692855616342-230453-fpjh8g0ydk.webp",
+                                            "srcSet": "/static/b1cfc42821c5c808f6c0d0933b3de1b9/91542/1692855616342-230453-fpjh8g0ydk.webp 300w,\n/static/b1cfc42821c5c808f6c0d0933b3de1b9/42e71/1692855616342-230453-fpjh8g0ydk.webp 600w,\n/static/b1cfc42821c5c808f6c0d0933b3de1b9/384f8/1692855616342-230453-fpjh8g0ydk.webp 1200w",
+                                            "sizes": "(min-width: 1200px) 1200px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1200,
+                                    "height": 628
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "featuredPursuitOfPassion": {
+                "nodes": [
+                    {
+                        "title": "Why Investing Your 13th Month Pay is the Key to a Secure Future",
+                        "slug": "why-investing-your-13th-month-pay-is-the-key-to-a-secure-future",
+                        "category": "finance",
+                        "datePublished": "November 17, 2023",
+                        "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/images/1700192230049-213919-ylrbqfpg9m.jpg",
+                        "optimizedFeaturedImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#282828",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/0fef33f48f6806ec71ed0a99ff3f9d84/89314/1700192230049-213919-ylrbqfpg9m.webp",
+                                            "srcSet": "/static/0fef33f48f6806ec71ed0a99ff3f9d84/5e603/1700192230049-213919-ylrbqfpg9m.webp 480w,\n/static/0fef33f48f6806ec71ed0a99ff3f9d84/f63b3/1700192230049-213919-ylrbqfpg9m.webp 960w,\n/static/0fef33f48f6806ec71ed0a99ff3f9d84/89314/1700192230049-213919-ylrbqfpg9m.webp 1920w",
+                                            "sizes": "(min-width: 1920px) 1920px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 1920,
+                                    "height": 1080
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "title": "Treat Your Mom Like a Queen This Mother’s Day With Gift Ideas Made Extra Special",
+                        "slug": "treat-your-mom-like-a-queen-this-mothers-day-with-gift-ideas-made-extra-special",
+                        "category": "people",
+                        "datePublished": "May 02, 2023",
+                        "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/images/1682992118873-632639-6y4zr8813ax.jpg",
+                        "optimizedFeaturedImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/768e673881afb98857d2ce0df26fdcf8/5d08c/1682992118873-632639-6y4zr8813ax.webp",
+                                            "srcSet": "/static/768e673881afb98857d2ce0df26fdcf8/1d3b1/1682992118873-632639-6y4zr8813ax.webp 1250w,\n/static/768e673881afb98857d2ce0df26fdcf8/c79a5/1682992118873-632639-6y4zr8813ax.webp 2500w,\n/static/768e673881afb98857d2ce0df26fdcf8/5d08c/1682992118873-632639-6y4zr8813ax.webp 5000w",
+                                            "sizes": "(min-width: 5000px) 5000px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 5000,
+                                    "height": 3334
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "title": "Here's Why More Women Should Invest In Real Estate",
+                        "slug": "heres-why-more-women-should-invest-in-real-estate",
+                        "category": "people",
+                        "datePublished": "March 06, 2023",
+                        "featuredImage": "https://rbgcms-alb-prod.ayalaland.com/content/uploads/images/1678075525182-648882-e1fq6z3eqc.jpg",
+                        "optimizedFeaturedImg": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#c8a8a8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/88ead5297bc35efdc716b38e40ef18c8/187b2/1678075525182-648882-e1fq6z3eqc.webp",
+                                            "srcSet": "/static/88ead5297bc35efdc716b38e40ef18c8/7da34/1678075525182-648882-e1fq6z3eqc.webp 1752w,\n/static/88ead5297bc35efdc716b38e40ef18c8/bc4d2/1678075525182-648882-e1fq6z3eqc.webp 3504w,\n/static/88ead5297bc35efdc716b38e40ef18c8/187b2/1678075525182-648882-e1fq6z3eqc.webp 7008w",
+                                            "sizes": "(min-width: 7008px) 7008px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 7008,
+                                    "height": 4672
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "SeoTags": {
+                "seoHomeDescription": "Avida Land is the mid-market real-estate brand of Ayala Land offering condo and house and lot properties in the Philippines.",
+                "seoHomeTitle": "Avida Land | Avida Homes, Condo and House and Lot in the Philippines"
+            }
+        },
+        "pageContext": {}
+    },
+    "staticQueryHashes": ["3109028461", "3827149321", "65569352", "679905114"]
+}
